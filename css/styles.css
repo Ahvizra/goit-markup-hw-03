@@ -35,6 +35,7 @@ body {
   color: var(--black);
 }
 .logo {
+  font-family: "Raleway", sans-serif;
   font-weight: bold;
   font-size: 26px;
   line-height: 1.19;
@@ -258,6 +259,6 @@ body {
   justify-content: center;
 }
 .hero-conteiner {
-  padding: 200px 0px;
+  padding: 200px 15px;
   max-width: 696px;
 }
