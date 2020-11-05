@@ -53,6 +53,10 @@ body {
 .link:hover {
   color: var(--acent);
 }
+.header-adress {
+  font-size: 14px;
+  color: var(--gray);
+}
 .button {
   font-weight: bold;
   font-size: 16px;
